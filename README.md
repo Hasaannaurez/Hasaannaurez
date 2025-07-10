@@ -64,12 +64,6 @@ Welcome to my GitHub profile! I'm an aspiring AI/ML engineer and passionate deve
 
 ---
 
-## 📈 GitHub Stats
-
-![Hasaannaurez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasaannaurez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasaannaurez&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect!
 
