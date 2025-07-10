@@ -67,8 +67,8 @@ Welcome to my GitHub profile! I'm an aspiring AI/ML engineer and passionate deve
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/Hasaannaurez)  
-- [Email](hasaannaurez777@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/Hasaannaurez](https://www.linkedin.com/in/hasaan-naurez-553156294 )  
+- Email: hasaannaurez777@gmail.com
 - [Portfolio / Website](#) (Coming soon!)
 
 ---
